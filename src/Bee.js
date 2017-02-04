@@ -9,6 +9,7 @@ class Bee extends Grub {
     this.job = 'Keep on growing';
     this.color = 'yellow';
   }
+  
 };
 
 export default Bee;

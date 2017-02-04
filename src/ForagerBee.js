@@ -1,6 +1,7 @@
 import Bee from './Bee'
 
 class ForagerBee {
+  
   constructor() {
     super();
   }
